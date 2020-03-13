@@ -48,6 +48,5 @@ sqlparse==0.3.0
 subprocess32==3.5.4
 tornado==5.1.1
 traitlets==4.3.3
-vboxapi==1.0
 wcwidth==0.1.8
 xattr==0.6.4
